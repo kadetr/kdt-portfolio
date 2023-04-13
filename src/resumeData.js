@@ -19,7 +19,7 @@ let resumeData = {
       ],
     "aboutme":"I am a full-stack developer since 2021, mainly skilled in MERN stack, Javascript and Typescript I also have 3 years of research experience in p2p networks (C/C++, ns-3). My previous position was fullstack developer for a healthcare company (via Toptal).",
     "address":"Izmir - Turkiye",
-    "website":"http://kemaldenizteket.com",
+    "website":"https://www.kemaldenizteket.com",
     "email":"kemaldeniz.teket@gmail.com",
     "education":[
       {

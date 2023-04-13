@@ -237,6 +237,16 @@
       
    .bars { width: 100%; }
 
+    /* Portfolio Section
+   --------------------------------------------------------------------- */
+   #portfolio .header-col {
+      padding-top: 0;
+      margin-bottom: 48px;
+      text-align: center;
+   }
+   #portfolio h1 { letter-spacing: 3px; }
+   #portfolio .main-col { padding-right: 30px; }
+   #portfolio h3, #resume .info { text-align: center; }
 
    /* Call To Action Section
    /* ----------------------------------------------------------------- */
