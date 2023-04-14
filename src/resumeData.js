@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Fullstack Developer & Researcher",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like working with various technologies of fullstack development. The ones that I used most are Nodejs, React, Javascript, Typescript. I also like to discover new technologies, recently I started playing with Docker, Prisma, Postgres for an educational project.",
+    "roleDescription": "I am a Fullstack Developer and Researcher who enjoys working with various technologies in fullstack development. I have experience with Nodejs, React, Javascript and Typescript. I am always eager to learn new technologies and have recently started exploring Docker, Prisma and Postgres for an educational project.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -17,7 +17,7 @@ let resumeData = {
           "className":"fa fa-github"
         },
       ],
-    "aboutme":"I am a full-stack developer since 2021, mainly skilled in MERN stack, Javascript and Typescript I also have 3 years of research experience in p2p networks (C/C++, ns-3). My previous position was fullstack developer for a healthcare company (via Toptal).",
+    "aboutme":"As a full-stack developer since 2021, I have extensive expertise in MERN stack, Javascript and Typescript technologies. In addition, I have a strong background in p2p networks research, with 3 years of experience using C/C++ and ns-3 simulation tools. My most recent role was as a fullstack developer for a healthcare company, where I worked remotely through Toptal platform.",
     "address":"Izmir - Turkiye",
     "website":"https://www.kemaldenizteket.com",
     "email":"kemaldeniz.teket@gmail.com",
